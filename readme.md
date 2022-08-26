@@ -55,3 +55,10 @@ En Java, en cambio, se usa el método especial finalize() que no devuelve nada (
 #### UML (Unified Modeling Language).
 
 Es un lenguaje conceptual, por lo que el diagrama de clases debería ser lo más independiente posible del lenguaje de programación a utilizar en el futuro.
+
+#### En este curso se implemento en los Lenguajes 
+
+* JAVA
+* JavaScript
+* PYTHON
+* PHP
